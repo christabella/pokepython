@@ -8,3 +8,9 @@ Modules: Tkinter, tkFont, pygame
 ![Playing](/../screenshots/screenshot1.png "Playing")
 ![Wrong Answer](/../screenshots/screenshot2.png "Wrong Answer")
 ![Win](/../screenshots/screenshot3.png "Win")
+
+Music: Clean Bandit - Rather Be feat. Jess Glynne (Instrumental)
+
+GIFs: cloudylicious and chi-u on DeviantArt
+
+Thank you Hezu, Clement, Yang Jin, and Kenny for helping to compile the question bank, thank you Kenny for helping pick out the music and making good calls on game rules, and thank you Kenny and Lihwei for that impromptu 1am pair/triplet programming session it was fun.
