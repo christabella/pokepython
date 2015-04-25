@@ -11,6 +11,6 @@ Modules: Tkinter, tkFont, pygame
 
 Music: Clean Bandit - Rather Be feat. Jess Glynne (Instrumental)
 
-GIFs: cloudylicious and chi-u on DeviantArt
+GIFs: [cloudylicious](http://cloudylicious.deviantart.com/) and [chi-u](chi-u.deviantart.com) on DeviantArt
 
 Thank you Hezu, Clement, Yang Jin, and Kenny for helping to compile the question bank, thank you Kenny for helping pick out the music and making good calls on game rules, and thank you Kenny and Lihwei for that impromptu 1am pair/triplet programming session it was fun.
