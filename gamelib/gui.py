@@ -1,6 +1,6 @@
-from Tkinter import *
-import tkFont
-from questionBank import questionBank
+from tkinter import *
+import tkinter.font as tkFont
+from .questionBank import questionBank
 import os
 import random
 import pygame as pg
@@ -111,7 +111,7 @@ class applicationGUI():
     ##########################################
 
     def enableAnimation(self, gifObject, gifImg, ms_delay):
-        print "enableAnimation"
+        print("enableAnimation")
         self.ms_delay = ms_delay
         self.cancel_id = self.master.after(
             self.ms_delay, self._updateGIF, 0, gifObject, gifImg)
@@ -124,7 +124,7 @@ class applicationGUI():
             self.ms_delay, self._updateGIF, frameNum, gifObject, gifImg)
 
     def cancelAnimation(self, gifObject, gifImg):
-        print "cancelAnimation"
+        print("cancelAnimation")
         if self.cancel_id:
             self.master.after_cancel(self.cancel_id)
             self.cancel_id = None
@@ -247,7 +247,7 @@ class applicationGUI():
         # this is the final stretch!
         # your {pokemon} is racing towards the finish line!   
 
-            print "passing"
+            print("passing")
             pass
 
 
